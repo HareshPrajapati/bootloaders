@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\timer_bilnk_interupt_pic18.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>49152</length>
+      <used>498</used>
+      <free>48654</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3720</length>
+      <used>13</used>
+      <free>3707</free>
+    </memory>
+  </executable>
+</project>

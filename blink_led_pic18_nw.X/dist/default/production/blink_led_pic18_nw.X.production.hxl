@@ -1,0 +1,35 @@
+### HEXMate logfile and output summary ###
+### Memory Usage ###
+ Unused memory ranges:
+  0h - 3FFFh
+  4004h - FF27h
+  10000h - 1FFFFFh
+  200010h - 2FFFFFh
+  30000Ch - 30003Fh
+  
+ dist/default/production\blink_led_pic18_nw.X.production.hex ranges:
+  4000h - 4003h
+  FF28h - FFFFh
+  200000h - 20000Fh
+  300000h - 30000Bh
+  
+### Hex Memory Map ###
+ Legend:
+  - = Unused memory
+  F = Filled ROM
+  S = Stored serial code
+  A = Stored ASCII string
+  R = Reserved for checksum
+  C = Stored checksum result
+  T = Trailing code
+  & = Find & replace opcode
+  X = Find & delete opcode
+  1 = dist/default/production\blink_led_pic18_nw.X.production.hex
+00000000: ----------------------------------------------------------------
+00004000: 1111------------------------------------------------------------
+0000FF00: ----------------------------------------111111111111111111111111
+0000FF40: 1111111111111111111111111111111111111111111111111111111111111111
+0000FF80: 1111111111111111111111111111111111111111111111111111111111111111
+0000FFC0: 1111111111111111111111111111111111111111111111111111111111111111
+00200000: 1111111111111111------------------------------------------------
+00300000: 111111111111----------------------------------------------------
